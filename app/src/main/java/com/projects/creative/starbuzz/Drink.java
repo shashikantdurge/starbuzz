@@ -6,6 +6,7 @@ package com.projects.creative.starbuzz;
 
 public class Drink {
     private String name;
+    String age;
     private String description;
     private int resourceId;
 
